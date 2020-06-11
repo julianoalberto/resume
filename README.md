@@ -40,8 +40,8 @@ Throughout this time, I worked in the maintenance of at least ten internal proje
 In some of these, I acted as the lead developer and was responsible for client facing meetings to discuss scope and requirements. **Key skills: Java, Servlets, JDBC, JSP, Javascript, DB2.**
 
 ### Miscellaneous
-* Bachelor's Degree, Computer Science, 2002-2005 at Centro Universitário de Jaguariúna – UniFAJ (Brazil).
-* Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0.
-* Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4.
+* Bachelor's Degree, **Computer Science**, 2002-2005 at Centro Universitário de Jaguariúna – UniFAJ (Brazil).
+* **Sun Certified Programmer** for the Java 2 Platform, Standard Edition 5.0.
+* **Sun Certified Web Component Developer** for the Java 2 Platform, Enterprise Edition 1.4.
 * **Brazilian Portuguese** is my **native** language and I also speak **English fluently**.
-* If you need references about me, please send me an email and I can give you some contacts. I don't put them here to preserve their privacy.
+* If you need **references** about me, please send me an email and I can give you some contacts. I don't put them here to preserve their privacy.
