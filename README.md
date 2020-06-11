@@ -44,4 +44,4 @@ In some of these, I acted as the lead developer and was responsible for client f
 * Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0.
 * Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4.
 * **Brazilian Portuguese** is my **native** language and I also speak **English fluently**.
-* If you need references about me, please send me an email and I can giv you some contacts. I don't put them here to preserve their privacy.
+* If you need references about me, please send me an email and I can give you some contacts. I don't put them here to preserve their privacy.
