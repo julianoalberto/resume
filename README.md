@@ -1,6 +1,6 @@
 ## DevOps Engineer / Java Developer
 ### Juliano Alberto Batista Gonçalves - julianoalberto@gmail.com
-[linkedin.com/in/juliano-alberto-batista-goncalves](www.linkedin.com/in/in/juliano-alberto-batista-goncalves)  
+[linkedin.com/in/juliano-alberto-batista-goncalves](https://www.linkedin.com/in/juliano-alberto-batista-goncalves)  
 [github.com/julianoalberto](https://github.com/julianoalberto)
 
 I have over 14 years of experience in the software industry, of which nine as a Java developer and the last five focused on DevOps with some minor assignments in quality assurance and development. 
@@ -11,12 +11,9 @@ At the moment, I'm interested in automating tasks that no one sees but have to b
 
 ### Career
 #### Airbus - Jan 2020 to date
-As a subcontractor of CGI, I joined the Airbus DevOps team responsible for the company's API ecosystem in Toulouse, France.
-
-Developed Docker images, scripts and Kubernetes cronjobs for backup of databases, GitHub repositories and Jenkins data. **Key skills: Docker, Kubernetes, bash, Python, AWS.**
-
-Updated Docker images and Kubernetes deployments to eliminate the use of root user at runtime. **Key skills: Docker, Kubernetes.**
-
+As a subcontractor of CGI, I joined the Airbus DevOps team responsible for the company's API ecosystem in Toulouse, France.  
+Developed Docker images, scripts and Kubernetes cronjobs for backup of databases, GitHub repositories and Jenkins data. **Key skills: Docker, Kubernetes, bash, Python, AWS.**  
+Updated Docker images and Kubernetes deployments to eliminate the use of root user at runtime. **Key skills: Docker, Kubernetes.**  
 Created Python scripts to consume API usage logs and aggregate information to feed the system responsible for the monetization of APIs. **Key skills: Docker, Kubernetes, Python, RabbitMQ, Redis.**
 
 #### IBM Brazil - Oct 2019 to Dec 2019
