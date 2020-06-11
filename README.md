@@ -37,7 +37,7 @@ Implemented Jenkins and created build and deployment jobs for a Java web applica
 
 #### IBM Brazil - Aug 2005 to Oct 2014
 Throughout this time, I worked in the maintenance of at least ten internal projects with a similar pattern: Java application running on IBM WebSphere Application Server backed by IBM DB2 database.
-In some of these, I acted as the lead developer and was responsible for client facing meetings to discuss scope and requirements.**Key skills: Java, Servlets, JDBC, JSP, Javascript, DB2.**
+In some of these, I acted as the lead developer and was responsible for client facing meetings to discuss scope and requirements. **Key skills: Java, Servlets, JDBC, JSP, Javascript, DB2.**
 
 ##### Notes
 * Bachelor's Degree, Computer Science, 2002-2005 at Centro Universitário de Jaguariúna – UniFAJ (Brazil)
