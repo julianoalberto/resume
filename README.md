@@ -1,9 +1,7 @@
 ## DevOps Engineer / Java Developer
-### Juliano Alberto Batista Gonçalves
-
-* [julianoalberto@gmail.com](julianoalberto@gmail.com)
-* [linkedin.com/in/juliano-alberto-batista-goncalves](linkedin.com/in/juliano-alberto-batista-goncalves)
-* [github.com/julianoalberto](github.com/julianoalberto)
+### Juliano Alberto Batista Gonçalves - julianoalberto@gmail.com
+[linkedin.com/in/juliano-alberto-batista-goncalves](www.linkedin.com/in/in/juliano-alberto-batista-goncalves)  
+[github.com/julianoalberto](https://github.com/julianoalberto)
 
 I have over 14 years of experience in the software industry, of which nine as a Java developer and the last five focused on DevOps with some minor assignments in quality assurance and development. 
 
