@@ -14,8 +14,11 @@ At the moment, I'm interested in automating tasks that no one sees but have to b
 ### Career
 #### Airbus - Jan 2020 to date
 As a subcontractor of CGI, I joined the Airbus DevOps team responsible for the company's API ecosystem in Toulouse, France.
+
 Developed Docker images, scripts and Kubernetes cronjobs for backup of databases, GitHub repositories and Jenkins data. **Key skills: Docker, Kubernetes, bash, Python, AWS.**
+
 Updated Docker images and Kubernetes deployments to eliminate the use of root user at runtime. **Key skills: Docker, Kubernetes.**
+
 Created Python scripts to consume API usage logs and aggregate information to feed the system responsible for the monetization of APIs. **Key skills: Docker, Kubernetes, Python, RabbitMQ, Redis.**
 
 #### IBM Brazil - Oct 2019 to Dec 2019
@@ -26,6 +29,7 @@ Joined a quality assurance team to assist with the development of automated test
 
 #### IBM Brazil - Aug 2016 to Apr 2019
 Implemented Jenkins from scratch and automated around 85 percent of builds and deployments. **Key skills: Jenkins, bash, Ant.**
+
 Participated in the migration of one application to IaaS servers on IBM Cloud. This included the adoption of Ansible to manage the new servers' configurations.
 **Key skills: Ansible, IBM Cloud, bash.**
 
