@@ -28,7 +28,7 @@ Implemented Jenkins from scratch and automated around 85 percent of builds and d
 Participated in the migration of one application to IaaS servers on IBM Cloud. This included the adoption of Ansible to manage the new servers' configurations.
 **Key skills: Ansible, IBM Cloud, bash.**
 
-Created a dashboard for L1 support team with alerts for critical errors using logs from several sources. **Key skills: Elasticsearch, Logstash, Kibana.**
+Created a dashboard for L1 support team with alerts for critical errors using logs from several sources. **Key skills: Elasticsearch, Logstash, Kibana, Docker.**
 
 Designed and created a chat bot intended to assist L1 support team in resolution of issues. **Key skills: IBM Conversation service.**
 
