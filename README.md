@@ -39,8 +39,8 @@ Implemented Jenkins and created build and deployment jobs for a Java web applica
 Throughout this time, I worked in the maintenance of at least ten internal projects with a similar pattern: Java application running on IBM WebSphere Application Server backed by IBM DB2 database.
 In some of these, I acted as the lead developer and was responsible for client facing meetings to discuss scope and requirements. **Key skills: Java, Servlets, JDBC, JSP, Javascript, DB2.**
 
-##### Notes
-* Bachelor's Degree, Computer Science, 2002-2005 at Centro Universitário de Jaguariúna – UniFAJ (Brazil)
-* Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0
-* Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4
+### Miscellaneous
+* Bachelor's Degree, Computer Science, 2002-2005 at Centro Universitário de Jaguariúna – UniFAJ (Brazil).
+* Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0.
+* Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4.
 * **Brazilian Portuguese** is my **native** language and I also speak **English fluently**.
