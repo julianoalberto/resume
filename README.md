@@ -10,11 +10,11 @@ Therefore I have a clear understanding of the software life cycle and was there 
 At the moment, I'm interested in automating tasks that no one sees but have to be done. And my studies are focused on Kubernetes, Python and AWS.
 
 ### Career
-#### Airbus - Jan 2020 to date
+#### Airbus - Jan 2020 to Jun 2020
 As a subcontractor of CGI, I joined the Airbus DevOps team responsible for the company's API ecosystem in Toulouse, France.  
 Developed Docker images, scripts and Kubernetes cronjobs for backup of databases, GitHub repositories and Jenkins data. **Key skills: Docker, Kubernetes, bash, Python, AWS.**  
 Updated Docker images and Kubernetes deployments to eliminate the use of root user at runtime. **Key skills: Docker, Kubernetes.**  
-Created Python scripts to consume API usage logs and aggregate information to feed the system responsible for the monetization of APIs. **Key skills: Docker, Kubernetes, Python, RabbitMQ, Redis.**
+Created Python scripts to consume API usage logs and aggregate information to feed the system responsible for the monetization of APIs, as well as the related Kubernetes deployments and configurations. **Key skills: Docker, Kubernetes, Python, RabbitMQ, Redis, Ansible.**
 
 #### IBM Brazil - Oct 2019 to Dec 2019
 Developed an API for the dashboard of a user management application. **Key skills: PHP, PostgreSQL, Docker.**
